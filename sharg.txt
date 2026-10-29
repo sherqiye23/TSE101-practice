@@ -1,0 +1,5 @@
+bu bir text faylidir
+-Shargiya
+-21
+-Neftchala
+-bunu vim ile yazdim sonra vi ile editledim
